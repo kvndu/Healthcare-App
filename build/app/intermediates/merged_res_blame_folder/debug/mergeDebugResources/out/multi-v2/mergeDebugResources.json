@@ -266,7 +266,7 @@
                     }
                 },
                 {
-                    "source": "C:\\hospital\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\User\\Documents\\GitHub\\Healthcare-App\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -350,7 +350,7 @@
             "outputFile": "com.example.hospital.app-debug-26:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\hospital\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\User\\Documents\\GitHub\\Healthcare-App\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
