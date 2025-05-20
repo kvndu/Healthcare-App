@@ -1,0 +1,1 @@
+ C:\\hospital\\.dart_tool\\flutter_build\\9fc6d35e514995b0d7404fe3a54ae075\\native_assets.json: 
